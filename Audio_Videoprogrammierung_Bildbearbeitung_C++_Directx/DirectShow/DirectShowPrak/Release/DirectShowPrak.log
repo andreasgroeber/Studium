@@ -1,0 +1,9 @@
+﻿  DirectShowPrakDlg.cpp
+U:\AVG_Praktikum\DirectShowPrak v2\DirectShowPrak\DirectShowPrakDlg.cpp(147,29): warning C4101: "evCode": Unreferenzierte lokale Variable
+U:\AVG_Praktikum\DirectShowPrak v2\DirectShowPrak\DirectShowPrakDlg.cpp(165,39): warning C4101: "hr": Unreferenzierte lokale Variable
+  Code wird generiert.
+  4 of 199 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  DirectShowPrak.vcxproj -> U:\AVG_Praktikum\DirectShowPrak v2\Release\DirectShowPrak.exe
